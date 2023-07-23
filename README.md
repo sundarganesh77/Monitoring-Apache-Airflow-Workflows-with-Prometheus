@@ -5,7 +5,7 @@ The project is centered around a Docker-based infrastructure, leveraging various
 
 ![2](https://github.com/sundarganesh77/Monitoring-Apache-Airflow-Workflows-with-Prometheus/assets/113372806/cf8f522f-d41c-4be9-9158-73f293dfc451)
 
-                               This image is taken from Redhat which is give in the reference.
+                               This image is taken from Redhat which is given in the reference[1].
 
 ![7](https://github.com/sundarganesh77/Monitoring-Apache-Airflow-Workflows-with-Prometheus/assets/113372806/e7020913-c190-4545-a119-3ab25e110394)
 
