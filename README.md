@@ -24,7 +24,7 @@ The project is centered around a Docker-based infrastructure, leveraging various
 
 # References
 
-Theses references are the base for my project. In this, I mainly followed perkasaid.rio/monitoring-airflow-metrics-with-grafana-29ebb43100a3 medium article for my entire project which can be observed from the coding perspective as well. 
+These references are the base for my project. In this, I mainly followed perkasaid.rio/monitoring-airflow-metrics-with-grafana-29ebb43100a3 medium article for my entire project which can be observed from the coding perspective as well. 
 1. https://www.redhat.com/en/blog/monitoring-apache-airflow-using-prometheus
 2. https://databand.ai/apache-airflow-monitoring-best-practices/
 3. https://grafana.com/blog/2022/01/26/video-how-to-set-up-a-prometheus-data-source-in-grafana/
